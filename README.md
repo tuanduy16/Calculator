@@ -1,1 +1,1 @@
-A basic calculator
+A calculator with basic function
